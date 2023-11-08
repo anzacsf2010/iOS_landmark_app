@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Joshua Tree National Park is a vast protected area in southern California. It's characterized by rugged rock formations and stark desert landscapes. Named for the region’s twisted, bristled Joshua trees, the park straddles the cactus-dotted Colorado Desert and the Mojave Desert, which is higher and cooler. Keys View looks out over the Coachella Valley. Hiking trails weave through the boulders of Hidden Valley.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Lake Clark National Park and Preserve is an American national park in southwest Alaska, about 100 miles (160 km) southwest of Anchorage. The park was first proclaimed a national monument in 1978, then established as a national park and preserve in 1980 by the Alaska National Interest Lands Conservation Act. The park includes many streams and lakes vital to the Bristol Bay salmon fishery, including its namesake Lake Clark. A wide variety of recreational activities may be pursued in the park and preserve year-round. The park protects rainforests along the coastline of Cook Inlet, alpine tundra, glaciers, glacial lakes, major salmon-bearing rivers, and two volcanoes, Mount Redoubt and Mount Iliamna. Mount Redoubt is active, erupting in 1989 and 2009. The wide variety of ecosystems in the park mean that virtually all major Alaskan animals, terrestrial and marine, may be seen in and around the park. Salmon, particularly sockeye salmon, play a major role in the ecosystem and the local economy. Large populations of brown bears are attracted to feed on the spawning salmon in the Kijik River and at Silver Salmon Creek. Bear watching is a common activity in the park.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Klondike Gold Rush National Historical Park is a national historical park operated by the National Park Service that seeks to commemorate the Klondike Gold Rush of the late 1890s. Though the gold fields that were the ultimate goal of the stampeders lay in the Yukon Territory, the park comprises staging areas for the trek there and the routes leading in its direction. There are four units, including three in Municipality of Skagway Borough, Alaska and a fourth in the Pioneer Square National Historic District in Seattle, Washington.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Glacier National Park is an American national park located in northwestern Montana, on the Canada–United States border, adjacent to Waterton Lakes National Park in Canada—the two parks are known as the Waterton-Glacier International Peace Park. The park encompasses more than 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), more than 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals. This vast pristine ecosystem is the centerpiece of what has been referred to as the 'Crown of the Continent Ecosystem,' a region of protected land encompassing 16,000 sq mi (41,000 km2).",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Twin Lakes is a complex of two large lakes in Lake Clark National Park in the U.S. state of Alaska,[1] near the northeast corner of Lake and Peninsula Borough. It contains a 6-mile-long (9.7 km) upper lake and a smaller 4-mile-long (6.4 km) lower lake, joined by a short connecting stream. The lakes outflow westward into the Chilikadrotna River[2] (and eventually into the Mulchatna and Nushagak Rivers and Nushagak Bay). It is quite remote and unpopulated, except in the late summer as it is a popular hunting spot.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Glacier National Park is an American national park located in northwestern Montana, on the Canada–United States border, adjacent to Waterton Lakes National Park in Canada—the two parks are known as the Waterton-Glacier International Peace Park. The park encompasses more than 1 million acres (4,000 km2) and includes parts of two mountain ranges (sub-ranges of the Rocky Mountains), more than 130 named lakes, more than 1,000 different species of plants, and hundreds of species of animals. This vast pristine ecosystem is the centerpiece of what has been referred to as the 'Crown of the Continent Ecosystem,' a region of protected land encompassing 16,000 sq mi (41,000 km2).",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "SYukon–Charley Rivers National Preserve is a United States national preserve located in east central Alaska along the border with Canada. Managed by the National Park Service, the preserve encompasses 130 miles (208 km) of the 1,800-mile (3,000 km) Yukon River and the entire Charley River basin. The preserve protects the undeveloped Charley River and a significant portion of the upper Yukon. The interior Alaskan region experiences extremes of weather, with temperatures that can vary from −50 °F (−46 °C) in winter to 97 °F (36 °C) in summertime. The Yukon provided a means of access to the region, which is entirely roadless, during the late 19th century and early 20th centuries. Gold rushes in Alaska brought prospectors, who operated gold dredges to recover significant quantities of placer gold from area creeks. Today the preserve includes part of the route of the annual Yukon Quest dogsled race, which runs every February. During the summer float trips are popular on the Yukon and Charley Rivers.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Wrangell–St. Elias National Park and Preserve is an American national park and preserve managed by the National Park Service in south central Alaska. The park and preserve were established in 1980 by the Alaska National Interest Lands Conservation Act.[4] The protected areas are included in an International Biosphere Reserve and are part of the Kluane/Wrangell–St. Elias/Glacier Bay/Tatshenshini-Alsek UNESCO World Heritage Site. The park and preserve form the largest area managed by the National Park Service with a total of 13,175,799.07 acres (20,587.19 sq mi; 53,320.57 km2), an expanse larger than nine U.S. states and around the same size as Bosnia and Herzegovina or Croatia.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "Nancy Lake State Recreation Area is a 22,685 acres (9,180 ha) park near Willow in the Matanuska-Susitna Borough of Alaska. Founded on July 6, 1966, and set aside specifically for recreational use, the park is home to more than a hundred lakes as well as extensive wetlands. The landscape of the park was crafted in glacial retreats around 9,000 years ago, and around this same time the first inhabitants likely moved into the area. They were eventually followed by Russian exploration, and later increases in white settlement due to commerce and the presence of gold.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "North Cascades National Park is an American national park in the state of Washington. At more than 500,000 acres (200,000 ha), it is the largest of the three National Park Service units that comprise the North Cascades National Park Complex. North Cascades National Park consists of a northern and southern section, bisected by the Skagit River that flows through the reservoirs of Ross Lake National Recreation Area. Lake Chelan National Recreation Area lies on the southern border of the south unit of the park. In addition to the two national recreation areas, other protected lands including several national forests and wilderness areas, as well as Canadian provincial parks in British Columbia, nearly surround the park. North Cascades National Park features the rugged mountain peaks of the North Cascades Range, the most expansive glacial system in the contiguous United States, the headwaters of numerous waterways, and vast forests with the highest degree of flora biodiversity of any American national park.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "The Chincoteague National Wildlife Refuge is a 14,000-acre (57 km2) wildlife preserve operated by the U.S. Fish & Wildlife Service. It is primarily located on the Virginia half of Assateague Island with portions (only about 3%) located on the Maryland side of the island, as well as Morris Island and Wildcat Marsh. Mostly composed of beach, dunes, marsh, and maritime forest, the refuge contains a large variety of wildlife animals and birds, including the Chincoteague Pony.[1] The purpose of the refuge is to maintain, regulate and preserve animal and plant species as well as their habitats for present and future generations.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Located in Coos County, New Hampshire and Oxford County, Maine, Umbagog National Wildlife Refuge is a northern treasure in the National Wildlife Refuge System. The diversity of exceptional habitats provides excellent breeding and foraging areas for migratory birds, endangered species, resident wildlife, and rare plants. The refuge protects over 25,650 acres (103.8 km2) of wetland and forested upland habitat along Umbagog Lake. About 70% of its area is in New Hampshire and 30% in Maine.",
+        "imageName": "umbagog"
+    }
+]
